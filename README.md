@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td width="140" valign="top">
-  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzAiIGhlaWdodD0iMTMwIiB2aWV3Qm94PSIwIDAgMTMwIDEzMCI+CiAgPGRlZnM+CiAgICA8Y2xpcFBhdGggaWQ9ImNpcmNsZUNsaXAiPgogICAgICA8Y2lyY2xlIGN4PSI2NSIgY3k9IjY1IiByPSI2MiIvPgogICAgPC9jbGlwUGF0aD4KICA8L2RlZnM+CiAgPGNpcmNsZSBjeD0iNjUiIGN5PSI2NSIgcj0iNjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwQzdCNyIgc3Ryb2tlLXdpZHRoPSIzIi8+CiAgPGltYWdlIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9BYXJ5YW5iYW5za290YS5wbmciIHdpZHRoPSIxMzAiIGhlaWdodD0iMTMwIiBjbGlwLXBhdGg9InVybCgjY2lyY2xlQ2xpcCkiLz4KPC9zdmc+Cg==" width="130" height="130" alt="Aaryan Banskota"/>
+  <img src="https://github.com/Aaryanbanskota.png" width="130" height="130" style="border-radius: 50%; border: 3px solid #00C7B7;" alt="Aaryan Banskota"/>
 </td>
 <td valign="top">
 
@@ -121,11 +121,11 @@ A Progressive Web App for storing URLs, collaborating with teams, and chatting a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaryanbanskota&theme=merko&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&bg_color=0d1117&title_color=00C7B7&icon_color=00C7B7&text_color=7ee787)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Aaryanbanskota&theme=merko&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&bg_color=0d1117&title_color=00C7B7&icon_color=00C7B7&text_color=7ee787)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Aaryanbanskota&theme=merko&hide_border=true&background=0d1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=7ee787)
+![Streak Stats](https://streak-stats.demolab.com/?user=Aaryanbanskota&theme=merko&hide_border=true&background=0d1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=7ee787)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaryanbanskota&theme=merko&hide_border=true&layout=compact&bg_color=0d1117&title_color=00C7B7&text_color=7ee787)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Aaryanbanskota&theme=merko&hide_border=true&layout=compact&bg_color=0d1117&title_color=00C7B7&text_color=7ee787)
 
 </div>
 
@@ -145,9 +145,9 @@ I'm actively looking for **internships**, **full-time roles**, and **collaborati
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aaryan.baskota.2025)
 
 <br/>
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Aaryanbanskota&icon=github&color=00C7B7)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aaryanbanskota&color=00C7B7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 </div>
 
 <br/>
