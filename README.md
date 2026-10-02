@@ -24,60 +24,6 @@ Building production-ready applications with modern tech — currently focused on
 
 <br/>
 
-## 📊 Quick Facts
-
-| | |
-|---|---|
-| 🏢 **Experience** | 600+ hours at Birtmode Nagarpalika (Government Office) |
-| 🏆 **Achievements** | GodabariHacks Winner · 3× Hackathon Participant · Google Cloud Arcade |
-| 🎨 **Design** | 1+ year UI/UX with Figma & Canva |
-| 📱 **Mobile Dev** | Flutter (Beginner) · Kotlin · React |
-| 🚀 **Currently Learning** | Next.js 15 · TypeScript · Advanced PWA |
-
-<br/>
-
-## 🚀 Featured Projects
-
-### 🏛️ NagarContact — Government Officer Directory
-**Flutter · Supabase · Kotlin** — *Government Internship Project*
-
-A mobile app that helps citizens find verified, up-to-date contact information for government officers — both elected representatives and employees.
-
-- Complete directory of municipal officers (elected & employed)
-- Verified phone numbers and official email addresses
-- Real-time data sync with Supabase
-- Delivered as part of a 600-hour government internship
-
-**[🔗 Repository](https://github.com/Aaryanbanskota/nagar-contact-data)** — app is private for security; underlying data is public
-
----
-
-### 🏥 AfnoCare — Anonymous Health Platform
-**React · Socket.io · Netlify** — 🏆 **GodabariHacks Winner**
-
-An anonymous platform connecting people with doctors for sensitive health topics, built for people who feel shy discussing sexual health.
-
-- 100% anonymous doctor–patient communication
-- Real-time chat powered by Socket.io
-- Designed to reduce healthcare stigma
-- Built end-to-end during a 24-hour hackathon sprint
-
-**[🌐 Live Demo](https://afnocare.netlify.app/)**
-
----
-
-### 📦 NestBox — Collaborative Data Platform
-**PWA · React · Real-time** — *Active Development*
-
-A Progressive Web App for storing URLs, collaborating with teams, and chatting anonymously — a lightweight data-collaboration hub.
-
-- Installable, offline-capable PWA
-- URL storage and smart organization
-- Real-time team collaboration + anonymous chat
-
-**[🌐 Live Demo](https://nestbox.netlify.app/)**
-
-<br/>
 
 ## 🛠️ Tech Stack
 
